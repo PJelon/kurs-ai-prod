@@ -2,15 +2,19 @@
 
 [← Moduł 1](modul1.md) | [Moduł 3 →](modul3.md)
 
+[Przejdź do podsumowania](#podsumowanie)
+
 Żaden z tych sygnałów sam w sobie nie dowodzi błędu. Każdy powinien uruchomić weryfikację.
 
 ---
 
 ## Sygnał 1: Nadmierna płynność, zero „kanciastości"
 
-Teksty pisane przez ekspertów mają nierówności – skróty myślowe, subiektywne oceny, zdania urwane w połowie. Teksty AI są wygładzone do niepokojącego stopnia. Każdy akapit ma strukturę. Brzmi to profesjonalnie, ale naturalny tekst techniczny tak nie wygląda.
+1.  Teksty pisane przez ekspertów mają nierówności – skróty myślowe, subiektywne oceny, zdania urwane w połowie. 
+2.  Teksty AI są wygładzone do niepokojącego stopnia. Każdy akapit ma strukturę. 
+3.  Brzmi to profesjonalnie, ale naturalny tekst techniczny tak nie wygląda.
 
-**Przykład:**
+    Przykład listy kroków, która nie ma sensu:
 
 > „W celu zapewnienia poprawnego działania systemu należy upewnić się, że wszystkie wymagane zależności zostały zainstalowane zgodnie z dokumentacją producenta."
 
@@ -55,6 +59,9 @@ Model nauczył się, że dobra dokumentacja zawiera odsyłacze. Więc je generuj
 
 Adres wygląda wiarygodnie. Sekcja może nie istnieć. Model nie sprawdzał – wygenerował wzorzec „odsyłacz do dokumentacji".
 
+## Podsumowanie { #podsumowanie }
+Wszystkie cztery sygnały należy traktować łącznie – im więcej ich występuje, tym większe prawdopodobieństwo, że tekst został wygenerowany przez AI. Pamiętaj: weryfikacja faktów to Twój obowiązek.
 ---
 
 [← Moduł 1](modul1.md) | [Moduł 3 – Ćwiczenia →](modul3.md)
+
