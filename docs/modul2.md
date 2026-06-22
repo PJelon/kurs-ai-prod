@@ -8,7 +8,9 @@
 
 ## Sygnał 1: Nadmierna płynność, zero „kanciastości"
 
-Teksty pisane przez ekspertów mają nierówności – skróty myślowe, subiektywne oceny, zdania urwane w połowie. Teksty AI są wygładzone do niepokojącego stopnia. Każdy akapit ma strukturę. Brzmi to profesjonalnie, ale naturalny tekst techniczny tak nie wygląda.
+1.  Teksty pisane przez ekspertów mają nierówności – skróty myślowe, subiektywne oceny, zdania urwane w połowie. 
+2.  Teksty AI są wygładzone do niepokojącego stopnia. Każdy akapit ma strukturę. 
+3.  Brzmi to profesjonalnie, ale naturalny tekst techniczny tak nie wygląda.
 
 **Przykład:**
 
