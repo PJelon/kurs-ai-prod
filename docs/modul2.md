@@ -2,6 +2,8 @@
 
 [← Moduł 1](modul1.md) | [Moduł 3 →](modul3.md)
 
+[Przejdź do podsumowania](#podsumowanie)
+
 Żaden z tych sygnałów sam w sobie nie dowodzi błędu. Każdy powinien uruchomić weryfikację.
 
 ---
